@@ -2,7 +2,7 @@
 This is a site where you guess from what country the flag is from.
 
 ## How you can use this Website
-You can access this site by searching [url](url here).
+You can access this site by searching [krakalaka.github.io/Guess-the-flag/](https://krakalaka.github.io/Guess-the-flag/).
 When the page open, a flag will appear on the page and you will have four options. After you guess what country the flag is from, you can press the 'next' button to continue playing. The game is endless. The flags and options can repeat a few times
 
 ## About the project
